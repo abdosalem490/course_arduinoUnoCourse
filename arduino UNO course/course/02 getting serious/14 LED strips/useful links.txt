@@ -1,0 +1,11 @@
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0810_-_12V_LED_strip_with_TIP122/_0810_-_12V_LED_strip_with_TIP122.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0811_-_12V_LED_strip_with_TIP122_PWM/_0811_-_12V_LED_strip_with_TIP122_PWM.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0820_-_12V_RGB_LED_strip_with_TIP122/_0820_-_12V_RGB_LED_strip_with_TIP122.ino
+
+Learn more about the randomSeed function:
+	https://www.arduino.cc/en/Reference/RandomSeed

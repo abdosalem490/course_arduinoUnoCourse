@@ -1,0 +1,2 @@
+learn more about Serial.read():
+	https://www.arduino.cc/reference/en/language/functions/communication/serial/read/

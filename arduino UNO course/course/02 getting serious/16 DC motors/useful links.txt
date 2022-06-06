@@ -1,0 +1,23 @@
+Learn about torque:
+	https://en.wikipedia.org/wiki/Torque
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0900_-_DC_motor_with_L293/_0900_-_DC_motor_with_L293.ino
+
+DRV8871 product page:
+	https://www.adafruit.com/product/3190
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0903_-_DC_motor_with_DRV8871/_0903_-_DC_motor_with_DRV8871.ino
+
+product page:
+	https://www.adafruit.com/product/1438
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0910_-_DC_motor_with_Adafruit_Motor_Shield_v2/_0910_-_DC_motor_with_Adafruit_Motor_Shield_v2.ino
+
+Learn about pointers:	
+	https://en.wikipedia.org/wiki/Pointer_(computer_programming)
+
+DK electronics motor shield:
+	https://makeitanywhere.org/nyc/index.php?option=com_content&view=article&id=6&Itemid=132#!DK_Motorshield_V1_Top_B

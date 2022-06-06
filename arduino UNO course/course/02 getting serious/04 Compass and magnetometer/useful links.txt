@@ -1,0 +1,6 @@
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0590_-_HMC5883_3axis_magnetometer/_0590_-_HMC5883_3axis_magnetometer.ino
+
+Find the magnetic declination at your location:
+	https://www.magnetic-declination.com/
+

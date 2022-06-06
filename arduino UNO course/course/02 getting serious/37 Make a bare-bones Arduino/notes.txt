@@ -1,0 +1,2 @@
+use program Fritzing to create pcb layout boards
+and use https://gerblook.org/ to make sure that the pcb design is correct

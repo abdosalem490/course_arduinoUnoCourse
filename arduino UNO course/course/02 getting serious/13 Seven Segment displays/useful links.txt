@@ -1,0 +1,3 @@
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0750_-_One_7Seg_display_without_library/_0750_-_One_7Seg_display_without_library.ino
+

@@ -1,0 +1,14 @@
+recommended power supplies for arduino UNO:
+	https://docs.arduino.cc/hardware/uno-rev3
+
+learn about communications protocols:
+	https://en.wikipedia.org/wiki/Communication_protocol
+
+learn about floating pins:
+	https://en.wikipedia.org/wiki/Floating_ground
+
+learn about pull up & pull down resistors:
+	https://techexplorations.com/blog/electronics/blog-what-are-pull-up-and-pull-down-resistors/
+
+learn about PWM:
+	https://docs.arduino.cc/learn/microcontrollers/analog-output/

@@ -1,0 +1,5 @@
+product page:
+	https://www.adafruit.com/product/802
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/ASBS%20Getting%20Serious%20Links%20and%20External%20Resource.txt

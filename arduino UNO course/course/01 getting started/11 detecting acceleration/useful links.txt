@@ -1,0 +1,8 @@
+Learn about the Voltage regulator:
+	https://en.wikipedia.org/wiki/Voltage_regulator
+
+Sketch 1 on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0520_-_Acceleration_ADXL335_-_1/_0520_-_Acceleration_ADXL335_-_1.ino
+
+Sketch 2 on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0520_-_Acceleration_ADXL335_-_2/_0520_-_Acceleration_ADXL335_-_2.ino

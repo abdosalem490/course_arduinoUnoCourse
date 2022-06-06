@@ -1,0 +1,11 @@
+Product page:
+	https://www.adafruit.com/product/1947
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/tree/master/_0735_-_2.8_inch_TFT_with_resistive_touchscreen_and_SD_card
+
+Online file format converter: 
+	https://convertio.co/
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/tree/master/_0735_-_2.8_inch_TFT_with_resistive_touchscreen_and_SD_card

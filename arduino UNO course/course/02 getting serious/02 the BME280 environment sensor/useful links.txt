@@ -1,0 +1,5 @@
+Product page:
+	https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0490_-_BME280_environment_sensor/_0490_-_BME280_environment_sensor.ino

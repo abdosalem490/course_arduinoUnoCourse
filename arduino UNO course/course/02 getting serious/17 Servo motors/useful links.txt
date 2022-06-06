@@ -1,0 +1,23 @@
+sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0932_-_Servo_motor/_0932_-_Servo_motor.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/ASBS%20Getting%20Serious%20Links%20and%20External%20Resource.txt
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0940_-_Servo_motor_continuous/_0940_-_Servo_motor_continuous.in
+
+product page:
+	https://www.adafruit.com/product/1411
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0945_-_Servo_motors_with_Adafruit_Servo_Shield/_0945_-_Servo_motors_with_Adafruit_Servo_Shield.ino
+
+PWM Servo Driver Library:
+	https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
+
+16-ch PWM servo shield guide:
+	https://learn.adafruit.com/adafruit-16-channel-pwm-slash-servo-shield/overview
+
+Learn about the map() function:
+	https://www.arduino.cc/en/Reference/Map

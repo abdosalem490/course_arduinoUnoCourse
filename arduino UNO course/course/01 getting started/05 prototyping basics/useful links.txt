@@ -1,0 +1,11 @@
+learn about multimeters:
+	https://en.wikipedia.org/wiki/Multimeter
+
+conventional flow of electricity:
+	https://en.wikipedia.org/wiki/Electric_current#Reference_direction
+
+Learn about the Ammeter:
+	https://en.wikipedia.org/wiki/Ammeter
+
+learn about Solder:
+	https://en.wikipedia.org/wiki/Solder

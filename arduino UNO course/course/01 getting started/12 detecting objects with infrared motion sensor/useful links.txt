@@ -1,0 +1,11 @@
+PIR sensor on Wikipedia:
+	https://en.wikipedia.org/wiki/Passive_infrared_sensor
+
+Learn about Absolute Zero:
+	https://en.wikipedia.org/wiki/Absolute_zero
+
+Sketch 1 on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0500_-_Infrared_Sensor_1/_0500_-_Infrared_Sensor_1.ino
+
+Sketch 2 on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0500_-_Infrared_Sensor_2/_0500_-_Infrared_Sensor_2.ino

@@ -1,0 +1,11 @@
+List of links to sketches and other online resources for all lectures:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/ASBS%20Getting%20Serious%20Links%20and%20External%20Resource.txt
+
+Repository of sketches , schematics and links:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious
+
+List of tools and parts:
+	https://techexplorations.com/parts/asbsgsr-parts/
+
+Error report form:
+	https://www.surveymonkey.com/r/BLJM8G5

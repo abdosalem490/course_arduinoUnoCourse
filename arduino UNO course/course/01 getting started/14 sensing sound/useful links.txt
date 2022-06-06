@@ -1,0 +1,14 @@
+Learn about signal processing:
+	https://en.wikipedia.org/wiki/Signal_processing
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0560_-_Analog_microphone/_0560_-_Analog_microphone.ino
+	
+More about audio signal processing:
+	https://en.wikipedia.org/wiki/Audio_signal_processing
+
+Learn about loudness:
+	https://en.wikipedia.org/wiki/Loudness
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0560_-_Digital_sound_sensor/_0560_-_Digital_sound_sensor.ino

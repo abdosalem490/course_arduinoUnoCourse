@@ -1,0 +1,32 @@
+Voltage Divider:
+	https://en.wikipedia.org/wiki/Voltage_divider
+
+More about photoresistor:
+	https://en.wikipedia.org/wiki/Photoresistor
+
+Voltage divider calculator:
+	https://docs.google.com/spreadsheets/d/1U4fX1gv7U2Is3C7FE_dCmhFSCrBMLUqpa-CpYUxItxU/edit#gid=0
+
+Ultraviolet light:
+	https://en.wikipedia.org/wiki/Ultraviolet
+
+Analog UV light sensor product page:
+	https://www.adafruit.com/product/1918
+
+UV index scale:
+	https://www.epa.gov/sunsafety/uv-index-scale-0
+
+sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0410_-_UV_Sensor_-_1/_0410_-_UV_Sensor_-_1.ino
+
+UV index world record:
+	https://www.livescience.com/46701-andes-highest-uv-index-measured.html
+
+Sketch on github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0420_-_RGB_light_sensor_-_2/_0420_-_RGB_light_sensor_-_2.ino
+
+Sketch on github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0420_-_RGB_light_sensor_-_1/_0420_-_RGB_light_sensor_-_1.ino
+
+Learn about gamma correction:
+	https://en.wikipedia.org/wiki/Gamma_correction

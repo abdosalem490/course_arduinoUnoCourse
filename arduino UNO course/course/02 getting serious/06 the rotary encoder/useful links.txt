@@ -1,0 +1,8 @@
+Encoder Library:
+	https://www.pjrc.com/teensy/td_libs_Encoder.html
+
+Sketch1:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0640b_-_Rotary_encoder_with_interrupts/_0640b_-_Rotary_encoder_with_interrupts.ino
+
+Sketch2:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0640a_-_Rotary_encoder_no_interrupts/_0640a_-_Rotary_encoder_no_interrupts.ino

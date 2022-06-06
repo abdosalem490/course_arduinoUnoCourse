@@ -1,0 +1,44 @@
+about stepper motors:
+	https://en.wikipedia.org/wiki/Stepper_motor
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0952_-_NEMA17_with_L298N/_0952_-_NEMA17_with_L298N.ino
+
+Stepper library documentation:
+	https://www.arduino.cc/en/Reference/Stepper
+
+Learn about microstepping:
+	https://en.wikipedia.org/wiki/Stepper_motor#Microstepping
+
+Easydriver Product page:
+	http://www.schmalzhaus.com/EasyDriver/
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0970_-_NEMA17_with_EasyDriver/_0970_-_NEMA17_with_EasyDriver.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0972_-_NEMA17_with_EasyDriver_and_AccelStepper/_0972_-_NEMA17_with_EasyDriver_and_AccelStepper.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0973_-_NEMA17_with_EasyDriver_AccelStepper_and_position_array/_0973_-_NEMA17_with_EasyDriver_AccelStepper_and_position_array.ino
+
+Motor Shield library header file: 
+	https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library/blob/master/Adafruit_MotorShield.h
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0975_-_NEMA17_with_Adafruit_Motor_Shield_v2_and_AccelStepper/_0975_-_NEMA17_with_Adafruit_Motor_Shield_v2_and_AccelStepper.ino
+
+Stepper motors:
+	https://en.wikipedia.org/wiki/Stepper_motor
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0982_-_28BYJ-48_with_Adafruit_Motor_Shield_v2/_0982_-_28BYJ-48_with_Adafruit_Motor_Shield_v2.ino
+
+ULN2003 datasheet:
+	https://www.farnell.com/datasheets/1633642.pdf
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0980_-_5V_reduction_stepper_with_ULN2003_and_AccelStepper/_0980_-_5V_reduction_stepper_with_ULN2003_and_AccelStepper.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0981_-_5V_reduction_stepper_with_ULN2003_and_accelStepper_arra/_0981_-_5V_reduction_stepper_with_ULN2003_and_accelStepper_arra.ino

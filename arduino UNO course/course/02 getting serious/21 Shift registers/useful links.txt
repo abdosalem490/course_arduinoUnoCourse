@@ -1,0 +1,14 @@
+Learn more about FIFO: 
+	https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1821_-_595_shift_register_with_8_LEDs/_1821_-_595_shift_register_with_8_LEDs.ino
+
+Learn about random() and randomSeed():
+	https://www.arduino.cc/en/reference/random
+
+Learn about shiftOut:
+	https://www.arduino.cc/en/Reference/ShiftOut
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1823_-_595_Shift_register_with_16_LEDs/_1823_-_595_Shift_register_with_16_LEDs.ino#L83

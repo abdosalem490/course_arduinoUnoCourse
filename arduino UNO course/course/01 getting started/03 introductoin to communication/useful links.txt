@@ -1,0 +1,24 @@
+arduino UNO product page:
+	https://docs.arduino.cc/hardware/uno-rev3/
+
+learn about UART:
+	https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter
+
+learn about software serial:
+	https://www.arduino.cc/en/Reference/SoftwareSerial
+
+arduino UNO product page:
+	https://docs.arduino.cc/hardware/uno-rev3
+
+I2C on wikipedia:
+	https://en.wikipedia.org/wiki/I%C2%B2C
+
+learn about communications bus:
+	https://en.wikipedia.org/wiki/Bus_(computing)
+
+answer to brain stretcher:
+	https://www.arduino.cc/en/Reference/Wire
+
+full and half duplex communications:
+	https://en.wikipedia.org/wiki/Duplex_(telecommunications)
+

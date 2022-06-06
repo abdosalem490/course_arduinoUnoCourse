@@ -1,0 +1,14 @@
+Learn about the gyroscope:
+	https://en.wikipedia.org/wiki/Gyroscope
+
+Learn about the accelerometer:
+	https://en.wikipedia.org/wiki/Accelerometer
+
+Library with Sketch:
+	https://github.com/jrowberg/i2cdevlib
+
+Processing:
+	https://processing.org/donate
+
+Processing examples:
+	https://github.com/postspectacular/toxiclibs

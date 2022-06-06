@@ -1,0 +1,14 @@
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0700a_-_LCD_display/_0700a_-_LCD_display.ino
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0700b_-_LCD_display_with_DHT_sensor/_0700b_-_LCD_display_with_DHT_sensor.ino
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0710_-_LCD_I2C/_0710_-_LCD_I2C.ino
+
+MCP23017 datasheet:
+	https://www.microchip.com/
+	
+LCD shield reference:
+	https://wiki.dfrobot.com/LCD_KeyPad_Shield_For_Arduino_SKU__DFR0009

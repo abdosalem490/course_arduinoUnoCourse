@@ -1,0 +1,83 @@
+learn about millis(): 
+	https://www.arduino.cc/reference/en/language/functions/time/millis/
+
+learn about the setup() function:
+	https://www.arduino.cc/reference/en/language/structure/sketch/setup/
+
+learn about the increment/decrement operations:
+	https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+
+More about "if":
+	https://www.arduino.cc/reference/en/language/structure/control-structure/if/
+
+More about "if...else":
+	https://www.arduino.cc/reference/en/language/structure/control-structure/else/
+
+More about "while":
+	https://www.arduino.cc/reference/en/language/structure/control-structure/while/
+
+More about "for":
+	https://www.arduino.cc/reference/en/language/structure/control-structure/for/
+
+More about "switch...case":
+	https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/
+
+Arduino language Reference :
+	https://www.arduino.cc/reference/en/
+
+learn about "pinMode":
+	https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/
+
+learn about "digitalWrite":	
+	https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/
+
+learn about "delay":
+	https://www.arduino.cc/reference/en/language/functions/time/delay/
+
+learn more about pull up/down resistors:
+	https://circuitdigest.com/tutorial/pull-up-and-pull-down-resistor
+
+learn about relational operators:
+	https://en.wikipedia.org/wiki/Relational_operator
+
+Learn about the potentiometer:
+	https://en.wikipedia.org/wiki/Potentiometer
+
+Learn about "analogRead":
+	https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/
+
+Learn about PWM:
+	https://docs.arduino.cc/learn/microcontrollers/analog-output
+
+Learn about "analogWrite":
+	https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/
+
+Learn about "map":
+	https://www.arduino.cc/reference/en/language/functions/math/map/
+
+Learn about the RGB Led:
+	https://en.wikipedia.org/wiki/Light-emitting_diode#RGB
+
+The constants defined in the Arduino language:
+	https://www.arduino.cc/reference/en/language/variables/constants/constants/
+
+Learn about "define":
+	https://www.arduino.cc/reference/en/language/structure/further-syntax/define/
+
+Sketch on github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0300_-_RGB_blink/_0300_-_RGB_blink.ino
+
+Sketch on github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0300_-_RGB_combine/_0300_-_RGB_combine.ino
+
+Learn about "analogWrite":
+	https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/
+
+Learn more about classes:
+	https://en.wikipedia.org/wiki/Class_(computer_programming)
+
+ALA(arduino light animation) home on github:
+	https://github.com/bportaluri/ALA
+
+Arduino language reference:
+	https://www.arduino.cc/reference/en/

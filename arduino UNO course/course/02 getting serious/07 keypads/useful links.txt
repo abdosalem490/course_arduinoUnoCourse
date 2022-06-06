@@ -1,0 +1,21 @@
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0670_-_Membrane_Keypad_8-wire/_0670_-_Membrane_Keypad_8-wire.ino
+
+OneWireKeypad library:
+	https://github.com/AndrewMascolo/OnewireKeypad
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0680_-_Membrane_keypad_1-wire/_0680_-_Membrane_keypad_1-wire.ino
+
+Learn about resistor tolerance:
+	https://en.wikipedia.org/wiki/Electronic_color_code
+
+Learn about ghosting:
+	https://www.microsoft.com/appliedsciences/antighostingexplained.mspx
+
+Learn about decoupling capacitors:
+	https://en.wikipedia.org/wiki/Decoupling_capacitor
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0690_-_Membrane_keypad_with_74C922_encoder/_0690_-_Membrane_keypad_with_74C922_encoder.ino
+

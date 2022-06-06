@@ -1,0 +1,14 @@
+Learn about ultrasounds:
+	https://en.wikipedia.org/wiki/Ultrasound
+
+Learn about the ultrasonic transducer:
+	https://en.wikipedia.org/wiki/Ultrasonic_transducer
+
+Learn more about the oscilloscope:
+	https://en.wikipedia.org/wiki/Oscilloscope
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0510_-_Ultrasonic_Distance_Sensor/_0510_-_Ultrasonic_Distance_Sensor.ino
+
+Learn about pulsein():
+	https://www.arduino.cc/reference/en/language/functions/advanced-io/pulsein/

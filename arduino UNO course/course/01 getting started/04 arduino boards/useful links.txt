@@ -1,0 +1,36 @@
+arduino UNO product page:
+	https://docs.arduino.cc/hardware/uno-rev3
+
+arduino mega product page:
+	https://store.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=eu
+
+learn about digital to analog converters:
+	https://en.wikipedia.org/wiki/Digital-to-analog_converter
+
+arduino Due product page:
+	https://store.arduino.cc/products/arduino-due
+
+arduino zero product page:
+	https://store.arduino.cc/products/arduino-zero?selectedStore=eu
+
+arduino 101 product page:
+	https://community.intel.com/t5/Intel-Makers/Intel-Curie-End-of-Life-Scheduled/td-p/397068
+	https://store.arduino.cc/
+
+arduino pro mini:
+	https://store.arduino.cc/collections/pro-family?selectedStore=eu
+
+particle electron:
+	https://www.particle.io/iot-connectivity/
+
+freetronics LeoStick:
+	https://www.freetronics.com.au/products/leostick#.YfwAo-ozZPY
+
+Digispark Pro:
+	https://www.kickstarter.com/projects/digistump/digispark-pro-tiny-arduino-ready-mobile-and-usb-de
+
+NodeMCU:
+	http://www.nodemcu.com/index_en.html
+
+ESP2866:
+	https://en.wikipedia.org/wiki/ESP8266

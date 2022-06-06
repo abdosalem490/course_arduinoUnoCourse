@@ -1,0 +1,1 @@
+the idea is based on using Analog pins where by using voltage ladder , every button on the keypad has a specific volt that produces when being clicked

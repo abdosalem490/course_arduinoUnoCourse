@@ -1,0 +1,2 @@
+sketch :
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0732_-_2.2_inch_TFT_with_SD_card/_0732_-_2.2_inch_TFT_with_SD_card.ino

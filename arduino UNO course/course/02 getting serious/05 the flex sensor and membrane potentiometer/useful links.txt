@@ -1,0 +1,8 @@
+Manus Glove:
+	https://www.manus-meta.com/polygon
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0620_-_Flex_sensor/_0620_-_Flex_sensor.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0630_-_Membrane_potentiometer/_0630_-_Membrane_potentiometer.ino

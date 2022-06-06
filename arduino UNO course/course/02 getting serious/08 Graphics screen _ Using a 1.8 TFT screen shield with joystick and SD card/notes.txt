@@ -1,0 +1,6 @@
+you need your image to be in extension of .BMP not jpg or any other format
+so follow these steps in this website to convert your image to bmp : https://kb.drakesoftware.com/Site/Browse/11506/Resize-and-Change-Logo-from-JPG-to-BMP-for-Use-with-Bill-and-Letter
+also make sure that the result BMP image has a dimesions that is equal or less than to that of your touch screen and to see the dimensions of the screen , right click on the image and select properties and see the dimensions tab
+alternative way to that is to make a PNG file using photoshop for example , as PNG file is 32 bit BMP file (8 bit for Red , 8 bit for green , 8 bot for blue , 8 bit for transparency)
+that library we are using made by Adafruit can handle 8 bit color but without that 8 bit for transparency , so when exporting your PNG file in photoshop , turn off Transparency box so that it have a 3 - 8bit channel not 4.
+use this website to convert your PNG file to BMP file : https://convertio.co/png-bmp/

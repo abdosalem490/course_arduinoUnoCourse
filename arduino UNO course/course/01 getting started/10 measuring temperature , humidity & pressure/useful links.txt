@@ -1,0 +1,69 @@
+Learn more about RH and AH:
+	https://en.wikipedia.org/wiki/Humidity#Relative_humidity
+
+pull up/down resistors:
+	https://techexplorations.com/what-are-pull-up-and-pull-down-resistors/
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0430_-_DHT22/_0430_-_DHT22.ino
+
+DHT22 library on Github:
+	https://github.com/adafruit/DHT-sensor-library
+
+Heat Index:
+	https://en.wikipedia.org/wiki/Heat_index
+
+Learn about the thermistor:
+	https://en.wikipedia.org/wiki/Thermistor
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0440_-_Termistor/_0440_-_Termistor.ino
+
+Linear equation calculator:
+	https://www.webmath.com/equline1.html
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0440_-_Thermistor_with_library/_0440_-_Thermistor_with_library.ino
+	
+The Github respitory for the thermistor library:
+	https://github.com/panStamp/thermistor
+
+Learn about the linear equation:
+	https://en.wikipedia.org/wiki/Linear_equation
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0450_-_TMP36_temperature_sensor/_0450_-_TMP36_temperature_sensor.ino
+
+MCP9808 library on Github:
+	https://github.com/adafruit/Adafruit_MCP9808_Library
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0460_-_Temperature_MCP9808/_0460_-_Temperature_MCP9808.ino
+
+Binary to hexadecimal converter:
+	https://www.binaryhexconverter.com/binary-to-hex-converter
+
+I2C scanner on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/i2c_scanner/i2c_scanner.ino
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/blob/master/_0480_-_BMP180_-_1/_0480_-_BMP180_-_1.ino
+
+BMP180 library on Github:
+	https://github.com/sparkfun/BMP180_Breakout_Arduino_Library
+
+learn about oversampling:
+	https://en.wikipedia.org/wiki/Oversampling
+
+learn about memory pointers:
+	https://en.wikipedia.org/wiki/Pointer_(computer_programming)
+
+learn about pressure measurements:
+	https://en.wikipedia.org/wiki/Pressure_measurement
+
+Sketch on Github:
+	https://github.com/futureshocked/ArduinoSbS2017/tree/master/_0480_-BMP180_-_2
+
+BMP085 and BMP180 library of Github:
+	https://github.com/adafruit/Adafruit_BMP085_Unified
+

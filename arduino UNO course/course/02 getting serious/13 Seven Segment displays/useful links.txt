@@ -1,3 +1,29 @@
 Sketch:
 	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0750_-_One_7Seg_display_without_library/_0750_-_One_7Seg_display_without_library.ino
 
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0752_-_One_7Seg_With_Library/_0752_-_One_7Seg_With_Library.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0753_-_Two_7Seg_With_Library/_0753_-_Two_7Seg_With_Library.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0754_-_One_sevseg_with_shift_register/_0754_-_One_sevseg_with_shift_register.ino
+
+Learn more about shiftOut:
+	https://www.arduino.cc/reference/en/language/functions/advanced-io/shiftout/	
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0755_-_Seven_Seg_clock_display_timer/_0755_-_Seven_Seg_clock_display_timer.ino
+
+Learn more about the problem with delay():
+	https://techexplorations.com/arduino-tips-and-tricks/arduino-tips-and-tricks-23-the-problem-with-delay
+
+Product page:
+	https://www.adafruit.com/product/880
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0757_-_Seven_Seg_clock_display_I2C_backpack_timer/_0757_-_Seven_Seg_clock_display_I2C_backpack_timer.ino
+
+Adafruit LED Backpack library:
+	https://github.com/adafruit/Adafruit_LED_Backpack

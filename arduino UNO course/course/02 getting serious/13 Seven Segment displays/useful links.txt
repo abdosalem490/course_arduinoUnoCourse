@@ -27,3 +27,12 @@ Sketch:
 
 Adafruit LED Backpack library:
 	https://github.com/adafruit/Adafruit_LED_Backpack
+
+Product page:
+	https://www.adafruit.com/product/880
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0757_-_Seven_Seg_clock_display_I2C_backpack_timer/_0757_-_Seven_Seg_clock_display_I2C_backpack_timer.ino
+
+Adafruit LED Backpack library:
+	https://github.com/adafruit/Adafruit_LED_Backpack

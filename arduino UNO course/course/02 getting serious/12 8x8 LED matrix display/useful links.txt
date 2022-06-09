@@ -1,0 +1,11 @@
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0760_-_8x8_matrix_LED_smiley/_0760_-_8x8_matrix_LED_smiley.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0770_-_four_8x8_LED_matrix/_0770_-_four_8x8_LED_matrix.ino
+
+MAX72xx library on Github:
+	https://github.com/markruys/arduino-Max72xxPanel
+
+Adafruit GFX library on Github:
+	https://github.com/adafruit/Adafruit-GFX-Library	

@@ -10,3 +10,14 @@ Sketch:
 Sketch:
 	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1420a_-_eeprom_Demo1_reader/_1420a_-_eeprom_Demo1_reader.ino
 
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1420b_-_eeprom_Demo1_writer/_1420b_-_eeprom_Demo1_writer.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1420c_-_eeprom_Demo2_reader/_1420c_-_eeprom_Demo2_reader.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1420d_-_eeprom_Demo2_writer/_1420d_-_eeprom_Demo2_writer.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1430_-_eeprom_Demo3_external/_1430_-_eeprom_Demo3_external.ino

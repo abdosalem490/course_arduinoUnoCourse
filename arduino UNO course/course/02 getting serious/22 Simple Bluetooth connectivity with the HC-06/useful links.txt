@@ -1,3 +1,8 @@
 Sketch:
 	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1218a_-_Bluetooth_connectivity_with_the_HC-06_module/_1218a_-_Bluetooth_connectivity_with_the_HC-06_module.ino
 
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1218b_-_Bluetooth_connectivity_with_the_HC-06_module/_1218b_-_Bluetooth_connectivity_with_the_HC-06_module.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1218c_-_Bluetooth_connectivity_with_the_HC-06_module/_1218c_-_Bluetooth_connectivity_with_the_HC-06_module.ino

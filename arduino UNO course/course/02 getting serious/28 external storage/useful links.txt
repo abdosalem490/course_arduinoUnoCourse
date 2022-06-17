@@ -1,0 +1,12 @@
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1410a_-_sdcard_Demo1_CardInfo/_1410a_-_sdcard_Demo1_CardInfo.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1410b_-_sdcard_Demo2_Datalogger/_1410b_-_sdcard_Demo2_Datalogger.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1410c_-_sdcard_Demo3_listfiles/_1410c_-_sdcard_Demo3_listfiles.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1420a_-_eeprom_Demo1_reader/_1420a_-_eeprom_Demo1_reader.ino
+

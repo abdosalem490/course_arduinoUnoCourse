@@ -20,4 +20,8 @@ Neopixel Überguide:
 	https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels
 
 Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0840_-_Adafruit_8_pixel_RGB_strip/_0840_-_Adafruit_8_pixel_RGB_strip.ino
+
+Product page:
+	
 	

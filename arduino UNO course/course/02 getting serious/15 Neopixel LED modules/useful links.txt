@@ -1,0 +1,23 @@
+Product page:
+	https://www.adafruit.com/product/1430
+
+NeoMatrix library:
+	https://learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library
+
+NeoMatrix Library on Github: 
+	https://github.com/adafruit/Adafruit_NeoMatrix
+
+Neopixel library on Github:
+	https://github.com/adafruit/Adafruit_NeoPixel
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_0830_-_Adafruit_8x3_Neopixel_shield/_0830_-_Adafruit_8x3_Neopixel_shield.ino
+
+Product page:
+	 https://www.adafruit.com/product/1426
+
+Neopixel Überguide:
+	https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels
+
+Sketch:
+	

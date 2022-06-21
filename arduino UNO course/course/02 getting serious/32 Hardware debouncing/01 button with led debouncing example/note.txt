@@ -1,0 +1,1 @@
+the resistor in the schematic is a pull up resistor

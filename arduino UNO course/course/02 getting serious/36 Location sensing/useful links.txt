@@ -1,0 +1,17 @@
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1500a_-_Adafruit_echo/_1500a_-_Adafruit_echo.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1500b_-_Adafruit_modified_prescaling/_1500b_-_Adafruit_modified_prescaling.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1500c_-_Adafruit_parsing/_1500c_-_Adafruit_parsing.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1500d_-_i2c_scanner/_1500d_-_i2c_scanner.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1500e_-_tinyGPS_DeviceExample/_1500e_-_tinyGPS_DeviceExample.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1500f_-_tinyGPS_full/_1500f_-_tinyGPS_full.ino

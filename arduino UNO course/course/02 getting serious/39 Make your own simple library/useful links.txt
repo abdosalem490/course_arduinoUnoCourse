@@ -1,0 +1,5 @@
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_2420b_-_5883_magnetometer_reading/_2420b_-_5883_magnetometer_reading.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_2500b_-_step2_lib/_2500b_-_step2_lib.ino

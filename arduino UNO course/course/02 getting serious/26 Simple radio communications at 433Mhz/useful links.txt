@@ -1,0 +1,8 @@
+RadioHead library home page:
+	http://www.airspayce.com/mikem/arduino/RadioHead/
+
+Transmitter sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1310_-_RF422_transmitter/_1310_-_RF422_transmitter.ino
+
+Receiver sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1310_-_RF422_receiver/_1310_-_RF422_receiver.ino

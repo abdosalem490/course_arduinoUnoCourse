@@ -1,0 +1,53 @@
+Learn about the Ethernet switch:
+	https://simple.wikipedia.org/wiki/Ethernet_switch
+
+Ethernet Shield V1:
+	https://docs.arduino.cc/retired/shields/arduino-ethernet-shield-without-poe-module
+
+Ethernet Shield V2:
+	https://docs.arduino.cc/hardware/ethernet-shield-rev2
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1100_-_Simple_chat_server/_1100_-_Simple_chat_server.ino
+
+Learn about gateways:
+	https://en.wikipedia.org/wiki/Default_gateway
+
+Learn about IP subnets:
+	https://en.wikipedia.org/wiki/Subnetwork
+
+List of default TCP ports:
+	https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+
+Ethernet library documentation:
+	https://www.arduino.cc/reference/en/libraries/ethernet/
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1101_-_Simple_chat_server_LCD/_1101_-_Simple_chat_server_LCD.ino
+
+Learn about port forwarding:
+	https://en.wikipedia.org/wiki/Port_forwarding
+
+Skeetch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1110_-_Ethernet_reporting_web_server/_1110_-_Ethernet_reporting_web_server.ino
+
+Learn about HTTP:
+	https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+
+Learn more about the new line characters:
+	https://en.wikipedia.org/wiki/Newline
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1111_-_Ethernet_reporting_web_server_CSV/_1111_-_Ethernet_reporting_web_server_CSV.ino
+
+Learn about String indexOf() function:
+	https://www.arduino.cc/reference/en/language/variables/data-types/string/functions/indexof/
+
+Learn about the String to Int function:
+	https://www.arduino.cc/reference/en/language/variables/data-types/string/functions/toint/
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1120_-_Ethernet_controlling_web_server/_1120_-_Ethernet_controlling_web_server.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1121_-_Ethernet_controlling_web_server_one_LED/_1121_-_Ethernet_controlling_web_server_one_LED.ino

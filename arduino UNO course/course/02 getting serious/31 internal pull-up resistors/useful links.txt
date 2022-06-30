@@ -1,0 +1,2 @@
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_2110_-_Demo1_internalPullup/_2110_-_Demo1_internalPullup.ino

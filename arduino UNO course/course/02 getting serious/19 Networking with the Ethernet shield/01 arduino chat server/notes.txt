@@ -1,0 +1,5 @@
+to enable telnet : https://community.talend.com/s/article/Telnet-is-not-recognized-as-an-internal-or-external-command-operable-program-or-batch-file-qUk5h?language=en_US#:~:text=In%20the%20Apps%20%26%20features%20dialog,Click%20OK.
+or from : https://www.thewindowsclub.com/telnet-not-recognized-internal-or-external-command
+
+then run the command prompt as administrator (important)
+and type "telnet (IP Address)" as "telnet 192.168.1.6"

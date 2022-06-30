@@ -1,0 +1,2 @@
+first make sure that the ip Address you are reserving for your arduino to act as a server isn't reserved by any other devices in home 
+second to make GET request so that a client can connect to your arduino server , simply type the IP address of the server in the search bar in any search engine so that it will make a GET request upon the connection will be established

@@ -1,0 +1,23 @@
+BLE on Wikipedia:
+	https://en.wikipedia.org/wiki/Bluetooth_Low_Energy
+
+BT GATT specifications:
+	https://www.bluetooth.com/specifications/specs/
+
+Adafruit nRF8001 library:
+	https://github.com/adafruit/Adafruit_nRF8001
+
+nRF Toolbox app iOS:
+	https://apps.apple.com/us/app/nrf-connect/id1054362403
+
+nRF Toolbox app Android:
+	https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=en
+
+Adafruit Bluefruit LE Connect app iOS:
+	https://apps.apple.com/au/app/adafruit-bluefruit-le-connect/id830125974
+
+Adafruit Bluefruit LE Connect app Android:
+	https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en
+
+Product page:
+	https://www.adafruit.com/product/802

@@ -1,0 +1,23 @@
+Module product page:
+	https://www.microchip.com/en-us/product/ATwinc1500
+
+Learn about the WiFi101 library:
+	https://www.arduino.cc/reference/en/libraries/wifi101/
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1210_-_Wifi_reporting_web_server/_1210_-_Wifi_reporting_web_server.ino
+
+WiFi101 library documentation:
+	https://www.arduino.cc/reference/en/libraries/wifi101/
+
+Amazon S3 storage service:
+	https://aws.amazon.com/s3/
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1211_S3_Bucket_policy.txt
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1211_-_Wifi_with_the_ATWINC5100_remote_CSV_fetch/_1211_-_Wifi_with_the_ATWINC5100_remote_CSV_fetch.ino
+
+Sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1212_-_Wifi_controlling_web_server_with_ATWIN1500_one_LED/_1212_-_Wifi_controlling_web_server_with_ATWIN1500_one_LED.ino

@@ -1,0 +1,20 @@
+Order your adaptor from OSHPark: 
+	https://oshpark.com/shared_projects/FAEHxUez
+
+Receiver sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1310_-_RF422_receiver/_1310_-_RF422_receiver.ino
+
+Transmitter sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1300a2_-_nRF24_transmitter/_1300a2_-_nRF24_transmitter.ino
+
+nRF24 library documentation:
+	https://www.arduino.cc/reference/en/libraries/rf24/
+
+Node 1 sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1300b_-_nRF24_Node1/_1300b_-_nRF24_Node1.ino
+
+Node 2 sketch:
+	https://github.com/futureshocked/TE-Arduino-SbS-Getting-Serious/blob/master/_1300c_-_nRF24_Node_2/_1300c_-_nRF24_Node_2.ino
+
+Software debouncing:
+	https://docs.arduino.cc/built-in-examples/digital/Debounce
